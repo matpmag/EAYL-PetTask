@@ -1,0 +1,9 @@
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Fluffy', 1, 1, 'f', '1993-02-04', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Claws', 2, 1, 'm', '1994-03-17', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Buffy', 1, 2, 'f', '1989-05-13', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Fang', 3, 2, 'm', '1990-08-27', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Bowser', 4, 2, 'm', '1979-08-31', '1995-07-29');
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Chirpy', 2, 3, null, '1997-12-09', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Whistler', 2, 3, null, '1997-12-09', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Slim', 3, 4, 'm', '1996-04-29', null);
+insert into tablePet(petName, ownerID, speciesID, sex, birth, death) values('Puffball', 4, 5, 'f', '1999-03-30', null);
