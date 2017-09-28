@@ -1,0 +1,9 @@
+insert into tablePetOwner values( 1, 1);
+insert into tablePetOwner values( 2, 2);
+insert into tablePetOwner values( 3, 1);
+insert into tablePetOwner values( 4, 3);
+insert into tablePetOwner values( 5, 4);
+insert into tablePetOwner values( 6, 2);
+insert into tablePetOwner values( 7, 2);
+insert into tablePetOwner values( 8, 3);
+insert into tablePetOwner values( 9, 4);

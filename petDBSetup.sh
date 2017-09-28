@@ -3,12 +3,14 @@
 mysql -uroot -p
 create database petData;
 use petData;
-source queryCreateTable.sql;
 \! echo "Creating table structure..."
-source queryPopulateSpecies.sql;
+source querySetupDatabase.sql;
 \! echo "Populating species table..."
-source queryPopulateOwners.sql;
+source queryPopulateSpecies.sql;
 \! echo "Populating owners table..."
-source queryPopulatePets.sql;
+source queryPopulateOwners.sql;
+\! echo "Populating pets-owners table..."
+source queryPopulatePetOwners.sql;
 \! echo "Populating pets table..."
+source queryPopulatePets.sql;
 \! echo "Success!"

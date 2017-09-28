@@ -1,8 +1,7 @@
-insert into tableOwner(firstName, lastName) values("Harold", "Anderson");
-insert into tableOwner(firstName, lastName) values("Gwen", "Brown");
-insert into tableOwner(firstName, lastName) values("Benny", "Charleson");
-insert into tableOwner(firstName, lastName) values("Diane", "Davison");
-INSERT INTO tableOwner VALUES ( 'Joe', 'Bloggs');
-INSERT INTO `petData`.`tableOwner` (`ownerID`, `firstName`, `lastName`) VALUES ('6', 'John', 'Smith');
-INSERT INTO `petData`.`tableOwner` (`ownerID`, `firstName`, `lastName`) VALUES ('7', 'Jane', 'Smyth');
-
+insert into tableOwner values(1, "Harold", "Anderson");
+insert into tableOwner values(2, "Gwen", "Brown");
+insert into tableOwner values(3, "Benny", "Charleson");
+insert into tableOwner values(4, "Diane", "Davison");
+insert into tableOwner values(5, "Joe", "Bloggs");
+insert into tableOwner values(6, "John", "Smith");
+insert into tableOwner values(7, "Jane", "Smyth");

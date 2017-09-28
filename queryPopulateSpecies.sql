@@ -1,5 +1,5 @@
-insert into tableSpecies(speciesName) values('cat');
-insert into tableSpecies(speciesName) values('dog');
-insert into tableSpecies(speciesName) values('bird');
-insert into tableSpecies(speciesName) values('snake');
-insert into tableSpecies(speciesName) values('hamster');
+insert into tableSpecies values(1, 'cat');
+insert into tableSpecies values(2, 'dog');
+insert into tableSpecies values(3, 'bird');
+insert into tableSpecies values(4, 'snake');
+insert into tableSpecies values(5, 'hamster');
