@@ -1,0 +1,1 @@
+select distinct petName from tablePet;

@@ -1,0 +1,1 @@
+select petName, cost from tablePet order by cost desc limit 3;

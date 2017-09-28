@@ -1,0 +1,1 @@
+select sum(cost) from tablePet;

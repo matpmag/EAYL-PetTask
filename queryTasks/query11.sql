@@ -1,0 +1,1 @@
+select distinct petName, count(*) from tablePet group by petName;
